@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class gameover : MonoBehaviour
+public class endgame : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,6 +16,6 @@ public class gameover : MonoBehaviour
     }
 
     private void OnDestroy() {
-			SceneManager.LoadScene("fase1");
+			SceneManager.LoadScene("menuprincipal");
 	}
 }
