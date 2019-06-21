@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/mariovenceu.unity
     guid: 82b9ae1f0f5a6ba478d28aab6b35c6a7
+  - enabled: 1
+    path: Assets/Scenes/menuprincipal.unity
+    guid: 4904cb9508c25484a9f0da3f46229d7d
   m_configObjects: {}
